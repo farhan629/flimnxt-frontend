@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { supabase } from "../services/superbaseClient.js";
+import { supabase } from "../services/supabaseClient";
 
 export default function Vote() {
   const [candidates, setCandidates] = useState([]);
