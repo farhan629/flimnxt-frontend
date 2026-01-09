@@ -85,7 +85,7 @@ export default function Vote() {
 
   return (
     <div className="container">
-      <h1>⚡ Live Voting Leaderboard</h1>
+      <h1>⚡ Live Voting Leaderboard Click to Vote</h1>
 
       {loading && <p className="loader">Loading results…</p>}
 
