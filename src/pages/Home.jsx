@@ -8,7 +8,7 @@ export default function Home() {
       <section className="hero">
         <img src={banner} alt="Bigg Boss Tamil" />
         <div className="hero-text">
-          <h1>Bigg Boss Tamil</h1>
+          <h1>Bigg Boss Tamil Season 9 vote</h1>
           <p>Vote for Your Favourite Contestant</p>
         </div>
       </section>
