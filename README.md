@@ -94,15 +94,3 @@ The project includes optimized metadata for:
 Made with ❤️ by the Flimnxt team.
 Special thanks to Supabase & Bigg Boss Tamil fans.
 
----
-
-## 📸 Screenshots
-
-*You can add screenshots here later if you want*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
